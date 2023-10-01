@@ -1,3 +1,5 @@
+# this app via angular is used to build cards with pic and info and create tabs and use them.
+
 # Galery
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.0.
